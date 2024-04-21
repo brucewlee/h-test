@@ -51,9 +51,7 @@ Each task within H-TEST requires the model to identify linguistic patterns that 
 
 ## Running H-Test
 
-1 (*Research Code*). Use the provided run-*.py files. 
-
-2 (*Recommended*). Use the H-Test implemented in [Nutcracker](https://github.com/brucewlee/nutcracker). We are still building this library but it runs. (Feedback appreciated!)
+(*Research Code*). Use the provided run-*.py files. 
 
 ## Citation
 ```
