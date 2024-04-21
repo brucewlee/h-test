@@ -1,0 +1,90 @@
+{"centerpiece": "Given the letter \"Z\", what is it most likely to look like when rotated 90 degrees clockwise?", "correct_options": [3], "options": ["Ɛ", "E", "O", "N"]}
+{"centerpiece": "Given the letter \"N\", what is it most likely to look like when rotated 90 degrees clockwise?", "correct_options": [0], "options": ["Z", "E", "O", "Ɛ"]}
+{"centerpiece": "Given the letter \"Z\", what is it most likely to look like when rotated 90 degrees counterclockwise?", "correct_options": [1], "options": ["O", "N", "Ɛ", "E"]}
+{"centerpiece": "Given the letter \"P\", what is it most likely to look like when rotated 180 degrees counterclockwise?", "correct_options": [0], "options": ["d", "Ɛ", "O", "E"]}
+{"centerpiece": "Given the letter \"H\", what is it most likely to look like when rotated 180 degrees counterclockwise?", "correct_options": [1], "options": ["O", "H", "E", "Ɛ"]}
+{"centerpiece": "Given the letter \"W\", what is it most likely to look like when rotated 180 degrees counterclockwise?", "correct_options": [1], "options": ["Ɛ", "M", "O", "E"]}
+{"centerpiece": "Given the letter \"M\", what is it most likely to look like when rotated 180 degrees counterclockwise?", "correct_options": [2], "options": ["E", "O", "W", "Ɛ"]}
+{"centerpiece": "Given the letter \"O\", what is it most likely to look like when rotated 180 degrees counterclockwise?", "correct_options": [0], "options": ["O", "Ɛ", "E", "6"]}
+{"centerpiece": "Given the letter \"P\", what is it most likely to look like when rotated 180 degrees clockwise?", "correct_options": [1], "options": ["O", "d", "E", "Ɛ"]}
+{"centerpiece": "Given the letter \"H\", what is it most likely to look like when rotated 180 degrees clockwise?", "correct_options": [1], "options": ["O", "H", "Ɛ", "E"]}
+{"centerpiece": "Given the letter \"W\", what is it most likely to look like when rotated 180 degrees clockwise?", "correct_options": [2], "options": ["E", "O", "M", "Ɛ"]}
+{"centerpiece": "Given the letter \"M\", what is it most likely to look like when rotated 180 degrees clockwise?", "correct_options": [2], "options": ["O", "E", "W", "Ɛ"]}
+{"centerpiece": "Given the letter \"O\", what is it most likely to look like when rotated 180 degrees clockwise?", "correct_options": [3], "options": ["E", "6", "Ɛ", "O"]}
+{"centerpiece": "Given the letter \"I\", what is it most likely to look like when rotated 90 degrees counterclockwise?", "correct_options": [2], "options": ["E", "O", "_", "Ɛ"]}
+{"centerpiece": "Given the letter \"I\", what is it most likely to look like when rotated 90 degrees clockwise?", "correct_options": [1], "options": ["E", "_", "O", "Ɛ"]}
+{"centerpiece": "Given the letter \"S\", what is it most likely to look like when rotated 180 degrees clockwise?", "correct_options": [1], "options": ["O", "5", "Ɛ", "E"]}
+{"centerpiece": "Given the number \"5\", what is it most likely to look like when rotated 180 degrees clockwise?", "correct_options": [0], "options": ["S", "E", "O", "Ɛ"]}
+{"centerpiece": "Given the letter \"q\", what is it most likely to look like when rotated 180 degrees clockwise?", "correct_options": [1], "options": ["Ɛ", "b", "E", "O"]}
+{"centerpiece": "Given the letter \"u\", what is it most likely to look like when rotated 180 degrees clockwise?", "correct_options": [2], "options": ["E", "O", "n", "Ɛ"]}
+{"centerpiece": "Given the letter \"n\", what is it most likely to look like when rotated 180 degrees clockwise?", "correct_options": [1], "options": ["O", "u", "Ɛ", "E"]}
+{"centerpiece": "Given the letter \"S\", what does it most likely look like when rotated 180 degrees counterclockwise?", "correct_options": [1], "options": ["E", "5", "Ɛ", "O"]}
+{"centerpiece": "Given the number \"5\", what does it most likely look like when rotated 180 degrees counterclockwise?", "correct_options": [1], "options": ["O", "S", "E", "Ɛ"]}
+{"centerpiece": "Given the letter \"q\", what does it most likely look like when rotated 180 degrees counterclockwise?", "correct_options": [1], "options": ["O", "b", "Ɛ", "E"]}
+{"centerpiece": "Given the letter \"u\", what does it most likely look like when rotated 180 degrees counterclockwise?", "correct_options": [0], "options": ["n", "O", "E", "Ɛ"]}
+{"centerpiece": "Given the letter \"n\", what does it most likely look like when rotated 180 degrees counterclockwise?", "correct_options": [1], "options": ["E", "u", "Ɛ", "O"]}
+{"centerpiece": "Given the letter \"E\", what does it most likely look like when rotated 180 degrees clockwise?", "correct_options": [1], "options": ["Ɛ", "Ǝ", "O", "E"]}
+{"centerpiece": "Given the symbol \"Ǝ\", what does it most likely look like when rotated 180 degrees clockwise?", "correct_options": [3], "options": ["6", "O", "Ɛ", "E"]}
+{"centerpiece": "Given the symbol \"Ǝ\", what does it most likely look like when rotated 180 degrees counterclockwise?", "correct_options": [1], "options": ["Ɛ", "E", "O", "6"]}
+{"centerpiece": "Given the letter \"E\", what does it most likely look like when rotated 180 degrees counterclockwise?", "correct_options": [0], "options": ["Ǝ", "O", "E", "Ɛ"]}
+{"centerpiece": "Given the letter \"A\", what does it most likely look like when rotated 180 degrees clockwise?", "correct_options": [1], "options": ["Ɛ", "∀", "O", "E"]}
+{"centerpiece": "Given the symbol \"∀\", what does it most likely look like when rotated 180 degrees clockwise?", "correct_options": [2], "options": ["O", "E", "A", "Ɛ"]}
+{"centerpiece": "Given the letter \"A\", what does it most likely look like when rotated 180 degrees counterclockwise?", "correct_options": [2], "options": ["Ɛ", "E", "∀", "O"]}
+{"centerpiece": "Given the symbol \"∀\", what does it most likely look like when rotated 180 degrees counterclockwise?", "correct_options": [2], "options": ["O", "Ɛ", "A", "E"]}
+{"centerpiece": "Given the letter \"g\", what does it most likely look like when rotated 180 degrees clockwise?", "correct_options": [2], "options": ["Ɛ", "O", "6", "E"]}
+{"centerpiece": "Given the number \"6\", what does it most likely look like when rotated 180 degrees clockwise?", "correct_options": [0], "options": ["g", "Ɛ", "E", "O"]}
+{"centerpiece": "Given the letter \"g\", what does it most likely look like when rotated 180 degrees counterclockwise?", "correct_options": [0], "options": ["6", "O", "Ɛ", "E"]}
+{"centerpiece": "Given the number \"6\", what does it most likely look like when rotated 180 degrees counterclockwise?", "correct_options": [0], "options": ["g", "O", "E", "Ɛ"]}
+{"centerpiece": "Given the number \"3\", what does it most likely look like when rotated 180 degrees clockwise?", "correct_options": [0], "options": ["Ɛ", "6", "O", "E"]}
+{"centerpiece": "Given the symbol \"Ɛ\", what does it most likely look like when rotated 180 degrees clockwise?", "correct_options": [1], "options": ["O", "3", "E", "Ɛ"]}
+{"centerpiece": "Given the number \"3\", what does it most likely look like when rotated 180 degrees counterclockwise?", "correct_options": [3], "options": ["6", "O", "E", "Ɛ"]}
+{"centerpiece": "Given the symbol \"Ɛ\", what does it most likely look like when rotated 180 degrees counterclockwise?", "correct_options": [2], "options": ["Ɛ", "E", "3", "O"]}
+{"centerpiece": "Given the number \"9\", what does it most likely look like when rotated 180 degrees clockwise?", "correct_options": [1], "options": ["O", "6", "Ɛ", "E"]}
+{"centerpiece": "Given the number \"6\", what does it most likely look like when rotated 180 degrees clockwise?", "correct_options": [0], "options": ["9", "Ɛ", "E", "O"]}
+{"centerpiece": "Given the number \"9\", what does it most likely look like when rotated 180 degrees counterclockwise?", "correct_options": [2], "options": ["O", "E", "6", "Ɛ"]}
+{"centerpiece": "Given the number \"6\", what does it most likely look like when rotated 180 degrees counterclockwise?", "correct_options": [0], "options": ["9", "E", "Ɛ", "O"]}
+{"centerpiece": "Given the letter \"H\", what is it most likely to look like when flipped along an imaginary vertical line in the middle?", "correct_options": [2], "options": ["E", "O", "H", "Ɛ"]}
+{"centerpiece": "Given the letter \"X\", what is it most likely to look like when flipped along an imaginary vertical line in the middle?", "correct_options": [1], "options": ["E", "X", "Ɛ", "O"]}
+{"centerpiece": "Given the letter \"X\", what is it most likely to look like when flipped along an imaginary horizontal line in the middle?", "correct_options": [0], "options": ["X", "Ɛ", "E", "O"]}
+{"centerpiece": "Given the letter \"W\", what is it most likely to look like when flipped along an imaginary horizontal line in the middle?", "correct_options": [3], "options": ["O", "E", "Ɛ", "M"]}
+{"centerpiece": "Given the letter \"K\", what is it most likely to look like when flipped along an imaginary horizontal line in the middle?", "correct_options": [0], "options": ["K", "Ɛ", "O", "E"]}
+{"centerpiece": "Given the letter \"O\", what is it most likely to look like when flipped along an imaginary vertical line in the middle?", "correct_options": [1], "options": ["Ɛ", "0", "E", "O"]}
+{"centerpiece": "Given the letter \"O\", what is it most likely to look like when flipped along an imaginary horizontal line in the middle?", "correct_options": [3], "options": ["E", "Ɛ", "O", "0"]}
+{"centerpiece": "Given the letter \"A\", what is it most likely to look like when flipped along an imaginary vertical line in the middle?", "correct_options": [2], "options": ["O", "Ɛ", "A", "E"]}
+{"centerpiece": "Given the letter \"∀\", what is it most likely to look like when flipped along an imaginary vertical line in the middle?", "correct_options": [1], "options": ["Ɛ", "∀", "O", "E"]}
+{"centerpiece": "Given the letter \"A\", what is it most likely to look like when flipped along an imaginary horizontal line in the middle?", "correct_options": [2], "options": ["Ɛ", "O", "∀", "E"]}
+{"centerpiece": "Given the letter \"∀\", what is it most likely to look like when flipped along an imaginary horizontal line in the middle?", "correct_options": [3], "options": ["E", "O", "Ɛ", "A"]}
+{"centerpiece": "Given the number \"3\", what is it most likely to look like when flipped along an imaginary vertical line in the middle?", "correct_options": [0], "options": ["Ɛ", "E", "O", "6"]}
+{"centerpiece": "Given the letter \"Ɛ\", what is it most likely to look like when flipped along an imaginary horizontal line in the middle?", "correct_options": [0], "options": ["Ɛ", "6", "O", "E"]}
+{"centerpiece": "Given the number \"3\", what is it most likely to look like when flipped along an imaginary horizontal line in the middle?", "correct_options": [2], "options": ["O", "Ɛ", "3", "E"]}
+{"centerpiece": "Given the letter \"Ɛ\", what is it most likely to look like when flipped along an imaginary vertical line in the middle?", "correct_options": [3], "options": ["E", "O", "Ɛ", "3"]}
+{"centerpiece": "Given the letter \"q\", what is it most likely to look like when flipped along an imaginary horizontal line in the middle?", "correct_options": [3], "options": ["O", "E", "Ɛ", "d"]}
+{"centerpiece": "Given the letter \"b\", what is it most likely to look like when flipped along an imaginary horizontal line in the middle?", "correct_options": [3], "options": ["Ɛ", "E", "O", "p"]}
+{"centerpiece": "Given the letter \"d\", what is it most likely to look like when flipped along an imaginary vertical line in the middle?", "correct_options": [0], "options": ["b", "Ɛ", "O", "E"]}
+{"centerpiece": "Given the letter \"p\", what is it most likely to look like when flipped along an imaginary horizontal line in the middle?", "correct_options": [0], "options": ["b", "E", "O", "Ɛ"]}
+{"centerpiece": "Given the letter \"R\", what is it most likely to look like when flipped along an imaginary vertical line in the middle?", "correct_options": [0], "options": ["Я", "O", "Ɛ", "E"]}
+{"centerpiece": "Given the letter \"Я\", what is it most likely to look like when flipped along an imaginary vertical line in the middle?", "correct_options": [3], "options": ["Ɛ", "O", "E", "R"]}
+{"centerpiece": "Given the letter \"E\", what is it most likely to look like when flipped along an imaginary vertical line in the middle?", "correct_options": [3], "options": ["O", "E", "Ɛ", "Ǝ"]}
+{"centerpiece": "Given the letter \"Ǝ\", what is it most likely to look like when flipped along an imaginary vertical line in the middle?", "correct_options": [2], "options": ["6", "Ɛ", "E", "O"]}
+{"centerpiece": "Given the letter \"u\", what is it most likely to look like when flipped along an imaginary vertical line in the middle?", "correct_options": [3], "options": ["Ɛ", "O", "E", "u"]}
+{"centerpiece": "Given the letter \"u\", what is it most likely to look like when flipped along an imaginary horizontal line in the middle?", "correct_options": [2], "options": ["Ɛ", "E", "n", "O"]}
+{"centerpiece": "Given the letters \"F\" and \"_\", what is it most likely to look like when added (F + _)?", "correct_options": [2], "options": ["6", "Ɛ", "E", "O"]}
+{"centerpiece": "Given the letters \"n\" and \"n\", what is it most likely to look like when added (n + n)?", "correct_options": [1], "options": ["Ɛ", "m", "E", "O"]}
+{"centerpiece": "Given the letters \"V\" and \"I\", what is it most likely to look like when added (V + I)?", "correct_options": [2], "options": ["O", "Ɛ", "Y", "E"]}
+{"centerpiece": "Given the letters \"D\" and \"–\", what is it most likely to look like when added (D + –)?", "correct_options": [3], "options": ["O", "Ɛ", "E", "B"]}
+{"centerpiece": "Given the letters \"I\" and \"_\", what is it most likely to look like when added (I + _)?", "correct_options": [0], "options": ["L", "Ɛ", "O", "E"]}
+{"centerpiece": "Given the letters \"O\" and \"\", what is it most likely to look like when added (O + )?", "correct_options": [3], "options": ["E", "O", "Ɛ", "Q"]}
+{"centerpiece": "Given the letters \"c\" and \"I\", what is it most likely to look like when added (c + I)?", "correct_options": [2], "options": ["Ɛ", "E", "d", "O"]}
+{"centerpiece": "Given the letters \"E\" and \"F\", what is it most likely to look like when subtracted (E - F)?", "correct_options": [3], "options": ["E", "Ɛ", "O", "_"]}
+{"centerpiece": "Given the letters \"V\" and \"V\", what is it most likely to look like when added (V + V)?", "correct_options": [1], "options": ["O", "W", "Ɛ", "E"]}
+{"centerpiece": "Given the letters \"Y\" and \"V\", what is it most likely to look like when subtracted (Y - V)?", "correct_options": [3], "options": ["Ɛ", "E", "O", "I"]}
+{"centerpiece": "Given the letters \"E\" and \"_\", what is it most likely to look like when subtracted (E - _)?", "correct_options": [1], "options": ["E", "F", "O", "Ɛ"]}
+{"centerpiece": "Given the letters \"B\" and \"-\", what is it most likely to look like when subtracted (B - -)?", "correct_options": [2], "options": ["E", "O", "D", "Ɛ"]}
+{"centerpiece": "Given the letters \"L\" and \"I\", what is it most likely to look like when subtracted (L - I)?", "correct_options": [1], "options": ["Ɛ", "_", "O", "E"]}
+{"centerpiece": "Given the letters \"L\" and \"_\", what is it most likely to look like when subtracted (L - _)?", "correct_options": [1], "options": ["E", "I", "Ɛ", "O"]}
+{"centerpiece": "Given the letter \"B\" and \"c\", flip \"c\" along the imaginary vertical line in the middle, then subtract that from \"B\". What is it most likely to look like?", "correct_options": [2], "options": ["Ɛ", "E", "P", "O"]}
+{"centerpiece": "Given the letters \"Y\" and \"I\", subtract \"I\" from \"Y\", Then rotate it 180 degrees clockwise. Lastly, add \"-\". What is it most likely to look like?", "correct_options": [0], "options": ["A", "O", "Ɛ", "E"]}
+{"centerpiece": "Given the letter \"u\", rotate \"u\" 180 degrees clockwise then multiply it by 2 side-by-side. What is it most likely to look like?", "correct_options": [1], "options": ["E", "m", "O", "Ɛ"]}
+{"centerpiece": "Given the letter \"C\", rotate it 90 degrees clockwise and add it side-by-side to the version that is rotated 90 degrees counter clock wise. What is it most likely to look like?", "correct_options": [2], "options": ["Ɛ", "6", "O", "E"]}
+{"centerpiece": "Given the letter \"u\", rotate it 180 degrees counter-clockwise and add it below the original letter. What is it most likely to look like?", "correct_options": [3], "options": ["E", "Ɛ", "O", "H"]}
+{"centerpiece": "Given the number \"3\", rotate it 180 degrees counter-clockwise and subtract \"c\" from it. What is it most likely to look like?", "correct_options": [3], "options": ["E", "Ɛ", "O", "c"]}

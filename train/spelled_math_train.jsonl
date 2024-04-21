@@ -1,0 +1,916 @@
+{"messages": [{"role": "user", "content": "The sum plus 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative divided by 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum to the power of 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle less than 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x minus 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative to the power of 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x to the power of 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of less than 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root modulo 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x times 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction equals to 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative greater than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum less than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction greater than 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit plus 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of minus 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum to the power of 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle greater than 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative minus 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative equals to 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative minus 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit approximately equal to 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral greater than 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative equals to 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle times 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product equals to 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative plus 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product equals to 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative modulo 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative approximately equal to 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root times 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral divided by 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of equals to 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product modulo 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction divided by 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of approximately equal to 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x minus 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral less than 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum less than 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle approximately equal to 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit to the power of 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum to the power of 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction minus 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product times 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral to the power of 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit to the power of 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative times 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral to the power of 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x modulo 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root plus 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction equals to 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x divided by 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum minus 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum to the power of 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral equals to 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle less than 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of divided by 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product greater than 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of approximately equal to 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative divided by 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction plus 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of divided by 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative plus 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x divided by 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x greater than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of divided by 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root divided by 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral modulo 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root divided by 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product divided by 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum less than 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product less than 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x minus 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product greater than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative divided by 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of approximately equal to 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product times 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root divided by 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root to the power of 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x to the power of 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum divided by 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product approximately equal to 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative less than 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral less than 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product equals to 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit less than 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root times 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit divided by 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle to the power of 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction plus 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle approximately equal to 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of times 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum modulo 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative less than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle divided by 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle plus 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum less than 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle to the power of 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative equals to 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral equals to 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction minus 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root modulo 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum minus 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative to the power of 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral greater than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative greater than 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit modulo 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x to the power of 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum times 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum minus 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral equals to 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle divided by 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative equals to 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root equals to 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum less than 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x plus 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral equals to 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root to the power of 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of plus 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum times 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x greater than 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of times 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral plus 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction plus 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative divided by 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction to the power of 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle times 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral times 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x times 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product divided by 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral minus 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x approximately equal to 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative approximately equal to 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit divided by 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x divided by 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction equals to 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit greater than 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product to the power of 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x minus 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral modulo 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x minus 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product greater than 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product modulo 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x equals to 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root greater than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root modulo 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle plus 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product modulo 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle to the power of 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product times 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum minus 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral minus 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of approximately equal to 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product modulo 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit modulo 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product minus 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle plus 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x times 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit minus 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle minus 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x minus 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root greater than 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of approximately equal to 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral minus 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x modulo 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction times 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum to the power of 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit approximately equal to 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product plus 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product modulo 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction times 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral modulo 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum to the power of 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root modulo 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral plus 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum times 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction minus 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root equals to 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction less than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x minus 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product divided by 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product equals to 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle less than 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral to the power of 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative plus 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative divided by 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product divided by 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root to the power of 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum plus 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of modulo 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of to the power of 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle greater than 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product times 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x minus 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum modulo 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product divided by 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product minus 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral less than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction greater than 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of times 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle times 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit minus 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction times 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative plus 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root times 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle approximately equal to 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root approximately equal to 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of approximately equal to 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle less than 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative modulo 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle plus 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum divided by 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative modulo 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x equals to 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root approximately equal to 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit minus 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root approximately equal to 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root times 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction greater than 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction minus 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root greater than 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative divided by 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral greater than 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product divided by 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit to the power of 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral equals to 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral divided by 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral modulo 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product to the power of 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit minus 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction times 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product equals to 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit minus 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle to the power of 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root approximately equal to 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root to the power of 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x approximately equal to 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum equals to 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative approximately equal to 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of less than 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral times 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x minus 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction plus 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction minus 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root plus 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum divided by 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative modulo 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative plus 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x minus 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit plus 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle to the power of 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit equals to 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle times 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction approximately equal to 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product less than 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root greater than 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative approximately equal to 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root plus 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral approximately equal to 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle times 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum approximately equal to 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root minus 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of less than 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root plus 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction greater than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product minus 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum minus 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x minus 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum to the power of 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product to the power of 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction modulo 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction equals to 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of plus 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum plus 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x plus 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product equals to 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of equals to 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction approximately equal to 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x minus 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit equals to 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum greater than 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product to the power of 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum times 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative equals to 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative minus 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x minus 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle less than 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction minus 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit modulo 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum to the power of 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle minus 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction minus 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x greater than 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum approximately equal to 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative divided by 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit divided by 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x less than 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction greater than 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root modulo 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral divided by 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root greater than 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x equals to 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x divided by 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle modulo 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of equals to 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle divided by 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum greater than 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum divided by 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x less than 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle approximately equal to 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral times 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle equals to 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit minus 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product equals to 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of divided by 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit approximately equal to 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum to the power of 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction to the power of 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit less than 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit to the power of 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum greater than 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral times 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum approximately equal to 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction approximately equal to 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit modulo 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction divided by 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative to the power of 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum to the power of 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product times 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit times 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle greater than 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum greater than 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root times 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum less than 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product modulo 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root divided by 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral times 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction equals to 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of divided by 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral times 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of plus 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum minus 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of to the power of 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit less than 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit times 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum greater than 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle greater than 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit plus 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative minus 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x times 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral to the power of 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral less than 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product greater than 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle equals to 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit equals to 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral times 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral equals to 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root approximately equal to 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit modulo 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root less than 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root minus 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle divided by 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative approximately equal to 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction plus 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative less than 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of less than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit plus 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative greater than 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root approximately equal to 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle modulo 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit times 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle greater than 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction times 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root plus 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit less than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral approximately equal to 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x greater than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x plus 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of to the power of 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root minus 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction approximately equal to 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of approximately equal to 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x to the power of 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum modulo 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle modulo 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product to the power of 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product approximately equal to 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of divided by 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of less than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit divided by 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction minus 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of less than 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product plus 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product times 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product divided by 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative modulo 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product greater than 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction plus 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction approximately equal to 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of equals to 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction times 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root approximately equal to 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative equals to 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle to the power of 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root plus 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum divided by 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit divided by 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative greater than 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit plus 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of minus 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root to the power of 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative modulo 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of divided by 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit modulo 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral less than 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of modulo 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction to the power of 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction equals to 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x minus 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction to the power of 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit less than 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit minus 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction plus 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root plus 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit minus 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x modulo 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral equals to 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative less than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle less than 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x plus 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction equals to 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction minus 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum plus 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction less than 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of modulo 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle plus 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The integral plus 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root modulo 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit divided by 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product less than 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle approximately equal to 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum to the power of 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x modulo 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of equals to 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The limit times 10."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x modulo 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x less than 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x modulo 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction modulo 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction equals to 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of divided by 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The value of x times 5."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle equals to 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative minus 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum times 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle times 7."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The square root less than 12."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product less than 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum greater than 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The product divided by 6."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The fraction approximately equal to 11."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The derivative less than 9."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The cube of plus 8."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle plus 4."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The angle plus 3."}, {"role": "assistant", "content": "A"}]}
+{"messages": [{"role": "user", "content": "The sum < 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative = 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of / 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle > 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit ^ 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product > 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit ^ 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative < 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral % 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit < 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x = 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle > 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root \u2248 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of \u2248 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum = 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle > 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative * 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x / 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle - 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product % 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product \u2248 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative * 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum < 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral ^ 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x ^ 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum \u2248 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root ^ 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle > 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle ^ 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of \u2248 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root \u2248 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root / 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root - 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative = 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction ^ 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral * 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product * 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum < 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction ^ 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product + 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product < 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x % 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root + 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit < 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of ^ 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative \u2248 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit < 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x < 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product * 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral % 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x < 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle + 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product * 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral + 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product > 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root > 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product = 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit - 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x ^ 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction / 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x + 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative + 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral / 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root - 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative \u2248 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction * 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle - 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit - 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x = 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product < 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum % 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum = 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum % 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction ^ 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction - 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction + 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root - 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction \u2248 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product * 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit % 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root \u2248 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle = 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative - 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root / 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle % 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction + 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction * 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative > 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction = 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit ^ 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of / 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative < 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of / 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root \u2248 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum = 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product / 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle > 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of ^ 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product ^ 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction \u2248 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit = 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum ^ 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative / 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit % 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle = 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x ^ 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of = 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root - 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle = 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root \u2248 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral + 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root - 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product \u2248 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle + 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral % 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum / 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of < 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle % 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of < 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root = 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product = 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle + 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum / 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit - 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative * 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum * 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product \u2248 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root = 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative = 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root - 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit % 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product - 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral - 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral = 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle = 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum \u2248 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product = 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of \u2248 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum % 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product > 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative ^ 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product > 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle \u2248 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum \u2248 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root < 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root * 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle = 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root < 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction > 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum % 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root = 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product + 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x * 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative > 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle ^ 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product % 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit / 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction = 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral + 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral - 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction = 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative + 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit = 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle \u2248 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x * 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product = 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle * 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction - 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum \u2248 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum - 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral \u2248 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit > 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x < 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root % 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle > 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle + 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative * 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum ^ 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x < 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit ^ 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative / 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of % 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product > 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative > 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root - 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction - 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x + 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction / 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x < 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x + 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product - 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral + 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product > 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of / 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit + 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root % 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of > 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum < 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative > 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product \u2248 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum % 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative - 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit / 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root * 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of - 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral + 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative + 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction < 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral \u2248 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral \u2248 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x - 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit ^ 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit * 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction ^ 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction ^ 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root ^ 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x % 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x + 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit - 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of + 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative < 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of * 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle \u2248 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative - 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative ^ 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum - 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit = 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit ^ 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root > 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction - 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x = 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle + 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle % 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative ^ 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction + 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum \u2248 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative > 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product % 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x = 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit < 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle - 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root < 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative / 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product - 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral % 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction < 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum - 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x % 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root > 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative = 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product + 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit < 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x = 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum + 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative % 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root > 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle * 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product \u2248 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle - 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral / 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction \u2248 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum % 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root \u2248 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of > 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x ^ 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction * 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral = 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product + 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of - 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction < 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x * 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root = 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral > 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product = 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of - 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x < 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum \u2248 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root ^ 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative > 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product + 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction ^ 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit ^ 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x % 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle < 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum > 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle \u2248 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit - 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x * 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum + 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x * 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral = 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative ^ 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x ^ 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product + 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral - 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction \u2248 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative > 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral - 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x + 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative = 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product > 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of = 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root * 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle * 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral > 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x / 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of + 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit % 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product + 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral - 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative + 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum * 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction - 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x = 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product - 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral * 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product % 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral - 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit - 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral - 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product + 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum = 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle > 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative * 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle + 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral < 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root + 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction * 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative + 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x = 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction + 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product < 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product < 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle % 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction % 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product + 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x < 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root < 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product < 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product * 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum / 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral * 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of \u2248 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root + 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of ^ 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle \u2248 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x > 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative - 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral % 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product * 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral \u2248 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum + 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral = 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle ^ 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit / 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum > 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product < 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum \u2248 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle * 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of * 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of % 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x / 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit + 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle ^ 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction \u2248 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction * 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product > 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral \u2248 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x = 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral < 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of + 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root - 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction ^ 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x * 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit / 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum % 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative ^ 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral > 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle + 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative \u2248 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral % 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of > 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction % 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative + 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x > 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit - 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of = 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral < 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x \u2248 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of * 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction / 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative % 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit \u2248 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral / 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x \u2248 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root % 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum % 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction % 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle ^ 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit * 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root - 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x - 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral > 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of \u2248 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root / 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of ^ 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product * 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product > 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x < 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The product - 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x % 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit % 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction \u2248 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit ^ 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root = 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral > 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum = 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction + 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral \u2248 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral - 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root \u2248 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The limit ^ 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative + 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative - 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x < 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral * 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of - 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral % 8."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum * 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction ^ 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root < 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral > 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of = 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral ^ 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of + 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of ^ 11."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral ^ 9."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of = 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of > 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x \u2248 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The square root > 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The sum = 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The fraction > 6."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle ^ 12."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle < 3."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x \u2248 5."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The value of x % 7."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The derivative % 4."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The angle + 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The cube of / 10."}, {"role": "assistant", "content": "B"}]}
+{"messages": [{"role": "user", "content": "The integral / 6."}, {"role": "assistant", "content": "B"}]}
