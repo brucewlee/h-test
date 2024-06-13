@@ -64,12 +64,15 @@ def get_response(model: str,
     if other_params:
         api_params.update(other_params)
     response = completion(**api_params)
+    #print(response)
     return response.choices[0].message.content if response.choices else "No response generated"
 
 
-def determine_binary_answers(model_response, chain_of_thought = False):
+def determine_binary_answers(model_response, chain_of_thought = False): 
+    print(model_response)
+    normalized_string = model_response.strip().lower()
     # Normalize string to handle case and whitespace variations
-    model_response = model_responseresponse.get('choices', [{}])[0].get('message', {}).get('content') # gemini
+    #model_response = model_response.response.get('choices', [{}])[0].get('message', {}).get('content') # gemini
     #normalized_string = model_response.strip().lower()
 
     if chain_of_thought == False:

@@ -159,16 +159,17 @@ api_key = {
     "ALEPHALPHA_API_KEY": "",
     "AWS_ACCESS_KEY_ID": "",
     "AWS_SECRET_ACCESS_KEY": "",
-    "AWS_REGION_NAME": ""
+    "AWS_REGION_NAME": "",
+    "ANTHROPIC_API_KEY": "" 
 }
 
-model_list = ["command"]  # ["command", "gpt-3.5-turbo-0613", "gpt-4-0613"]
-k_list = [50] # [4, 50] # create directories results-{k} first
+model_list = ["anthropic/claude-3-opus-20240229"]  # ["command", "gpt-3.5-turbo-0613", "gpt-4-0613"]
+k_list = [14] # [4, 50] # create directories results-{k} first
 
 for model in model_list:
     for k in k_list:
         model_dir = model.split("/")[-1]
-        result_dict = run_test(model= model, api_key=api_key, output_file=f'results-{k}/result_dict_{model_dir}.json', chain_of_thought=True)
+        result_dict = run_test(model= model, api_key=api_key, output_file=f'results-{k}/result_dict_{model_dir}.json', chain_of_thought=False)
         pprint(result_dict)
 
         interpreted_result_dict = interpret(result_dict, output_file=f'results-{k}/interpreted_result_dict_{model_dir}.json')
